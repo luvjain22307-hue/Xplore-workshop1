@@ -25,4 +25,4 @@ if __name__ == "__main__":
     names = ["Ada Lovelace", "Grace Hopper", "Alan Turing"]
     print(sort_by_lastname(names))
     print(apply_transform([1, 2, 3], lambda x: x + 10))
-    print(filter_even_squares([1, 2, 3, 4, 5, 6]))
+    print(filter_even_squares([1, 2, 3, 4, 5, 6])) 
