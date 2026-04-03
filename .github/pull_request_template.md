@@ -4,17 +4,17 @@
 
 ## 👤 Student Details
 
-- **Name:**  
-- **GitHub Username:**  
-- **University ID:**  
-- **Branch / Section:**  
+- LUV BHARAT JAIN
+- luvjain22307-hue 
+- 251030036  
+- ELECTRICAL  
 
 ---
 
 ## 📂 Submission Details
 
-- **Folder Name:** `<githubid>_solutions`
-- **Number of Files Changed/Added:**  
+- luvjain22307-hue_solutions
+- 5  
 
 ### 📄 List of Files Changed/Added
 - 
@@ -25,11 +25,7 @@
 
 ## 🛠 Description of Changes
 
-Briefly describe:
-- What bugs you fixed
-- What improvements you made
-- Any new files or features added
-- Any assumptions you made
+changes to basics
 
 ---
 
@@ -37,12 +33,12 @@ Briefly describe:
 
 I confirm that:
 
-- [ ] I have followed the repository submission guidelines.
-- [ ] I worked on my own fork.
-- [ ] I confirm my folder is correctly named
-- [ ] All changes are inside my `<githubid>_solutions` folder.
-- [ ] I have tested my code before submission.
-- [ ] This is my own work to the best of my knowledge.
+- [ ✅] I have followed the repository submission guidelines.
+- [ ✅ ] I worked on my own fork.
+- [  ✅] I confirm my folder is correctly named
+- [  ✅] All changes are inside my `<githubid>_solutions` folder.
+- [ ✅ ] I have tested my code before submission.
+- [  ✅] This is my own work to the best of my knowledge.
 
 ---
 
